@@ -15,3 +15,4 @@ Kaggle Fake Reviews (40,432 reviews)
 - NLTK, Gensim, Gradio
 - Google Colab
 
+## Downloaded training file from fake-reviews-detection(first) file and load and used in fake-reviews-detection file
